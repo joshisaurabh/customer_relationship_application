@@ -16,7 +16,6 @@ class Rolodex
 		contact.id = @id
 		@rolodex_contact << contact
 		
-		
 		@id += 1
 
 	end
