@@ -9,4 +9,6 @@ attr_accessor :fname, :lname, :email, :note, :id, :rolodex_contact
     @note = note
   end
 
+ 
+
 end
